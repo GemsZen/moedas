@@ -22,7 +22,8 @@ dolar_cingapura = real / 4.07
 rand_sul_africano = real / 0.37
 coroa_sueca = real / 0.63
 novo_dolar_taiwan = real / 0.18
-lira_turca = real / 0.64
+lira_turca = real / 0.64 
+
 
 print('Com R${:.2f} você pode comprar US${:.2f}'.format(real, dolar))
 print('Com R${:.2f} você pode comprar €{:.2f}'.format(real, euro))
