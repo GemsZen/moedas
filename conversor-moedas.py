@@ -51,4 +51,3 @@ print('Com R${:.2f} você pode comprar NOK{:.2f}'.format(real, lira_turca))
 
 
 
-
