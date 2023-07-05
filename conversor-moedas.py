@@ -48,4 +48,3 @@ print('Com R${:.2f} você pode comprar INR{:.2f}'.format(real, rand_sul_africano
 print('Com R${:.2f} você pode comprar KZT{:.2f}'.format(real, coroa_sueca))
 print('Com R${:.2f} você pode comprar MXN{:.2f}'.format(real, novo_dolar_taiwan))
 print('Com R${:.2f} você pode comprar NOK{:.2f}'.format(real, lira_turca)) 
-
