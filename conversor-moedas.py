@@ -50,3 +50,4 @@ print('Com R${:.2f} você pode comprar MXN{:.2f}'.format(real, novo_dolar_taiwan
 print('Com R${:.2f} você pode comprar NOK{:.2f}'.format(real, lira_turca)) 
 
 
+
